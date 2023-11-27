@@ -37,6 +37,7 @@
 		"canvas-confetti": "^1.4.0",
 		"clsx": "^1.1.1",
 		"copy-to-clipboard": "^3.3.1",
+		"date-fns": "^2.30.0",
 		"emoji-regex": "^10.1.0",
 		"inter-ui": "^3.19.3",
 		"is-web-crawler": "^1.1.0",
