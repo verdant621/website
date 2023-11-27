@@ -1,0 +1,82 @@
+[
+	{
+		"date": "07-06-2023",
+		"title": "AI Team Leader | Consulting",
+		"description": "SpeakSynk",
+		"done": [
+			"Consulted Processing System Real-Time Audio-Audio translation and Deepface - LipSync."
+		],
+		"icon": "feather:award"
+	},
+	{
+		"date": "02-10-2022",
+		"title": "Data Engineer",
+		"description": "Blue J Legal",
+		"done": [
+			"Designed and Developed 2M pdf data-based Fast Law-Search ChatGPT using Open-AI, Elastic search, and Pine-cone vector database, and after 2 weeks, the number of users became 20,000.",
+			"Built responsive designs that optimized the user experience across desktop and mobile devices using CSS3, Less, and Bootstrap.",
+			"Implemented PySpark for large-scale data processing and analytics, handling datasets with 2 million records and reducing processing time by 30%.",
+			"Utilized data mining techniques to extract valuable insights from complex datasets, including data extraction, cleaning, transformation, and analysis on datasets containing over 100 million records.",
+			"Collaborated with data scientists to develop and implement natural language processing models using OpenAI's GPT-3, improving text classification accuracy by 3%."
+		],
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "10-16-2018",
+		"title": "NLP Engineer",
+		"description": "Raven.ai",
+		"done": [
+			"Developed an NLP system that automatically classified 7.5K emails as spam or advertising mail using 3+ natural language processing methods.",
+			"Designed Text-classification Model using low CPU, memory, and Classified 1, 250, 000 PDF files for building Search Database.",
+			"Trained 2 Chinese-English machine translation systems that outperformed Google Translation using Transformers and some manually organizing models.",
+			"Developed the Chinese-tone learning system using AWS, TTS model, and 4TB No SQL DB.",
+			"Improved the Processing time of the TTS model from 5s to 2s using distributed voice generation and cached memory.",
+			"Build the OMR Program using Unet and customized Sheet-Music Parsing Technology."
+		],
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "01-21-2017",
+		"title": "Full Stack Engineer",
+		"description": "Illumino",
+		"done": [
+			"Developed 8 new responsive Web Design products and 30 new features.",
+			"Analyzed 5 modern JavaScript-based products that use company NLP and data services.",
+			"Experimented, explored, and coded 15 new UI building blocks used to create smart, beautiful, enterprise-level software experiences.",
+			"Translated 30+ UI/UX designs to code, resulting in visual elements of the application."
+		],
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "04-04-2017",
+		"title": "Got Bachelor's Degree in Computer Science.",
+		"description": "Dresden International University",
+		"icon": "feather:award"
+	},
+	{
+		"date": "04-15-2016",
+		"title": "Full Stack Developer",
+		"description": "Black Box",
+		"done": [
+			"Made structure from scratch including webpack configuration and management state with redux, redux saga.",
+			"Implemented pixel perfect design with html5, css3, sass, less.",
+			"Optimized query to reduce the getting data from the database.",
+			"Took part in integrating Graphql Apis.",
+			"Developed restful Apis in Laravel and Node.js projects.",
+			"Integrated payment logics with paypal and stripe."
+		],
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "03-11-2015",
+		"title": "Got Advanced Diploma in Computer Science and Mathmetics.",
+		"description": "The Hong Kong Polytechnic University",
+		"icon": "feather:award"
+	},
+	{
+		"date": "06-21-1993",
+		"title": "Birthday!",
+		"description": "I was born on 21th of June 1993",
+		"icon": "feather:gift"
+	}
+]
