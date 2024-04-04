@@ -221,22 +221,6 @@ export default function HomePage(): JSX.Element {
 				transition={{
 					delay: 1.5,
 				}}>
-				<Animate
-					as="p"
-					animation={{
-						opacity: [0, 1],
-						scale: [0.75, 1],
-					}}
-					className="mx-auto text-base text-gray-300 sm:text-lg md:text-xl"
-					style={{
-						textAlign: 'center',
-						margin: '20px',
-					}}
-					transition={{
-						delay: 1.5,
-					}}>
-					I've rich experience in:
-				</Animate>
 				<Carousel
 					responsive={responsive}
 					infinite={true}
